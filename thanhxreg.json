@@ -1,4 +1,19 @@
 {
-  "new_update": false,
-  "update_link": "https://www.tiktok.com/@prod_thanhxregreal"
+  "update_info": {
+    "new_update": false,
+    "update_link": "https://www.tiktok.com/@prod_thanhxregreal"
+  },
+  "app_config": {
+    "status": "active",
+    "is_tampered": false,
+    "block_emulator": true
+  },
+  "security_alerts": {
+    "tamper_msg": "PHÁT HIỆN CHỈNH SỬA: Ứng dụng này đã bị thay đổi trái phép và bị khóa!",
+    "emulator_msg": "CHẶN MÁY TÍNH: Vui lòng sử dụng điện thoại để truy cập bản Mod."
+  },
+  "action_control": {
+    "force_exit": false,
+    "kill_switch": false
+  }
 }
